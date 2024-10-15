@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\macie\\source\\repos\\LusciousLasagna\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{08705F4B-DE23-4E94-A9D8-29430AC002AF}|LusciousLasagna\\LusciousLasagna.csproj|c:\\users\\macie\\source\\repos\\lusciouslasagna\\lusciouslasagna\\lasagna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08705F4B-DE23-4E94-A9D8-29430AC002AF}|LusciousLasagna\\LusciousLasagna.csproj|solutionrelative:lusciouslasagna\\lasagna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{08705F4B-DE23-4E94-A9D8-29430AC002AF}|LusciousLasagna\\LusciousLasagna.csproj|c:\\users\\macie\\source\\repos\\lusciouslasagna\\lusciouslasagna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08705F4B-DE23-4E94-A9D8-29430AC002AF}|LusciousLasagna\\LusciousLasagna.csproj|solutionrelative:lusciouslasagna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Lasagna.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\LusciousLasagna\\LusciousLasagna\\Lasagna.cs",
+              "RelativeDocumentMoniker": "LusciousLasagna\\Lasagna.cs",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\LusciousLasagna\\LusciousLasagna\\Lasagna.cs",
+              "RelativeToolTip": "LusciousLasagna\\Lasagna.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:00:35.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\LusciousLasagna\\LusciousLasagna\\Program.cs",
               "RelativeDocumentMoniker": "LusciousLasagna\\Program.cs",
               "ToolTip": "C:\\Users\\macie\\source\\repos\\LusciousLasagna\\LusciousLasagna\\Program.cs",
               "RelativeToolTip": "LusciousLasagna\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T10:21:48.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T10:21:48.733Z"
             }
           ]
         }

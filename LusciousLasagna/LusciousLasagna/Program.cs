@@ -1,10 +1,17 @@
-﻿class Lasagna
-{
-    // TODO: define the 'ExpectedMinutesInOven()' method
+﻿using LusciousLasagna;
+using System.Text;
 
-    // TODO: define the 'RemainingMinutesInOven()' method
+int lasagnaTime = 0;
 
-    // TODO: define the 'PreparationTimeInMinutes()' method
+Lasagna lasagna = new(lasagnaTime);
 
-    // TODO: define the 'ElapsedTimeInMinutes()' method
-}
+StringBuilder sb = new();
+sb.AppendLine($"Expected time in oven: {lasagna.ExpectedMinutesInOven()}");
+sb.AppendLine();
+sb.AppendLine($"Remaining minutes in oven: {lasagna.RemainingMinutesInOven(15)}");
+sb.AppendLine();
+sb.AppendLine($"Preparation time in minutes: {lasagna.PreparationTimeInMinutes(4)}");
+sb.AppendLine();
+sb.AppendLine($"Elapsed time in oven: {lasagna.ElapsedTimeInMinutes(4, 6)}");
+
+Console.WriteLine($"{sb}");

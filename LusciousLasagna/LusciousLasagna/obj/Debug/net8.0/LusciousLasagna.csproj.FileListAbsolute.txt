@@ -1,0 +1,14 @@
+C:\Users\macie\source\repos\LusciousLasagna\LusciousLasagna\bin\Debug\net8.0\LusciousLasagna.exe
+C:\Users\macie\source\repos\LusciousLasagna\LusciousLasagna\bin\Debug\net8.0\LusciousLasagna.deps.json
+C:\Users\macie\source\repos\LusciousLasagna\LusciousLasagna\bin\Debug\net8.0\LusciousLasagna.runtimeconfig.json
+C:\Users\macie\source\repos\LusciousLasagna\LusciousLasagna\bin\Debug\net8.0\LusciousLasagna.dll
+C:\Users\macie\source\repos\LusciousLasagna\LusciousLasagna\bin\Debug\net8.0\LusciousLasagna.pdb
+C:\Users\macie\source\repos\LusciousLasagna\LusciousLasagna\obj\Debug\net8.0\LusciousLasagna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\LusciousLasagna\LusciousLasagna\obj\Debug\net8.0\LusciousLasagna.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\LusciousLasagna\LusciousLasagna\obj\Debug\net8.0\LusciousLasagna.AssemblyInfo.cs
+C:\Users\macie\source\repos\LusciousLasagna\LusciousLasagna\obj\Debug\net8.0\LusciousLasagna.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\LusciousLasagna\LusciousLasagna\obj\Debug\net8.0\LusciousLasagna.dll
+C:\Users\macie\source\repos\LusciousLasagna\LusciousLasagna\obj\Debug\net8.0\refint\LusciousLasagna.dll
+C:\Users\macie\source\repos\LusciousLasagna\LusciousLasagna\obj\Debug\net8.0\LusciousLasagna.pdb
+C:\Users\macie\source\repos\LusciousLasagna\LusciousLasagna\obj\Debug\net8.0\LusciousLasagna.genruntimeconfig.cache
+C:\Users\macie\source\repos\LusciousLasagna\LusciousLasagna\obj\Debug\net8.0\ref\LusciousLasagna.dll
