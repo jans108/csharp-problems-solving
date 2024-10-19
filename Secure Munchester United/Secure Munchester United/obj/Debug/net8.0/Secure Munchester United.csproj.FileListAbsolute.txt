@@ -1,0 +1,14 @@
+C:\Users\macie\source\repos\Secure Munchester United\Secure Munchester United\bin\Debug\net8.0\Secure Munchester United.exe
+C:\Users\macie\source\repos\Secure Munchester United\Secure Munchester United\bin\Debug\net8.0\Secure Munchester United.deps.json
+C:\Users\macie\source\repos\Secure Munchester United\Secure Munchester United\bin\Debug\net8.0\Secure Munchester United.runtimeconfig.json
+C:\Users\macie\source\repos\Secure Munchester United\Secure Munchester United\bin\Debug\net8.0\Secure Munchester United.dll
+C:\Users\macie\source\repos\Secure Munchester United\Secure Munchester United\bin\Debug\net8.0\Secure Munchester United.pdb
+C:\Users\macie\source\repos\Secure Munchester United\Secure Munchester United\obj\Debug\net8.0\Secure Munchester United.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Secure Munchester United\Secure Munchester United\obj\Debug\net8.0\Secure Munchester United.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Secure Munchester United\Secure Munchester United\obj\Debug\net8.0\Secure Munchester United.AssemblyInfo.cs
+C:\Users\macie\source\repos\Secure Munchester United\Secure Munchester United\obj\Debug\net8.0\Secure Munchester United.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Secure Munchester United\Secure Munchester United\obj\Debug\net8.0\Secure Munchester United.dll
+C:\Users\macie\source\repos\Secure Munchester United\Secure Munchester United\obj\Debug\net8.0\refint\Secure Munchester United.dll
+C:\Users\macie\source\repos\Secure Munchester United\Secure Munchester United\obj\Debug\net8.0\Secure Munchester United.pdb
+C:\Users\macie\source\repos\Secure Munchester United\Secure Munchester United\obj\Debug\net8.0\Secure Munchester United.genruntimeconfig.cache
+C:\Users\macie\source\repos\Secure Munchester United\Secure Munchester United\obj\Debug\net8.0\ref\Secure Munchester United.dll
