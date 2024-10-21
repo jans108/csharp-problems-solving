@@ -1,0 +1,4 @@
+C:\Users\macie\source\repos\Authentication System\Authentication System\obj\Debug\net8.0\Authentication System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Authentication System\Authentication System\obj\Debug\net8.0\Authentication System.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Authentication System\Authentication System\obj\Debug\net8.0\Authentication System.AssemblyInfo.cs
+C:\Users\macie\source\repos\Authentication System\Authentication System\obj\Debug\net8.0\Authentication System.csproj.CoreCompileInputs.cache
