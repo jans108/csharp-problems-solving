@@ -1,0 +1,14 @@
+C:\Users\macie\source\repos\International Calling Connoisseur\International Calling Connoisseur\bin\Debug\net8.0\International Calling Connoisseur.exe
+C:\Users\macie\source\repos\International Calling Connoisseur\International Calling Connoisseur\bin\Debug\net8.0\International Calling Connoisseur.deps.json
+C:\Users\macie\source\repos\International Calling Connoisseur\International Calling Connoisseur\bin\Debug\net8.0\International Calling Connoisseur.runtimeconfig.json
+C:\Users\macie\source\repos\International Calling Connoisseur\International Calling Connoisseur\bin\Debug\net8.0\International Calling Connoisseur.dll
+C:\Users\macie\source\repos\International Calling Connoisseur\International Calling Connoisseur\bin\Debug\net8.0\International Calling Connoisseur.pdb
+C:\Users\macie\source\repos\International Calling Connoisseur\International Calling Connoisseur\obj\Debug\net8.0\International Calling Connoisseur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\International Calling Connoisseur\International Calling Connoisseur\obj\Debug\net8.0\International Calling Connoisseur.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\International Calling Connoisseur\International Calling Connoisseur\obj\Debug\net8.0\International Calling Connoisseur.AssemblyInfo.cs
+C:\Users\macie\source\repos\International Calling Connoisseur\International Calling Connoisseur\obj\Debug\net8.0\International Calling Connoisseur.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\International Calling Connoisseur\International Calling Connoisseur\obj\Debug\net8.0\International Calling Connoisseur.dll
+C:\Users\macie\source\repos\International Calling Connoisseur\International Calling Connoisseur\obj\Debug\net8.0\refint\International Calling Connoisseur.dll
+C:\Users\macie\source\repos\International Calling Connoisseur\International Calling Connoisseur\obj\Debug\net8.0\International Calling Connoisseur.pdb
+C:\Users\macie\source\repos\International Calling Connoisseur\International Calling Connoisseur\obj\Debug\net8.0\International Calling Connoisseur.genruntimeconfig.cache
+C:\Users\macie\source\repos\International Calling Connoisseur\International Calling Connoisseur\obj\Debug\net8.0\ref\International Calling Connoisseur.dll
