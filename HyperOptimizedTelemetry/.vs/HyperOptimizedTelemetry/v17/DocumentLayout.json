@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\macie\\source\\repos\\HyperOptimizedTelemetry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2496EAA4-ABA1-498B-A00E-F0ABDF6ACDD3}|HyperOptimizedTelemetry\\HyperOptimizedTelemetry.csproj|c:\\users\\macie\\source\\repos\\hyperoptimizedtelemetry\\hyperoptimizedtelemetry\\hyperoptimizedtelemetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2496EAA4-ABA1-498B-A00E-F0ABDF6ACDD3}|HyperOptimizedTelemetry\\HyperOptimizedTelemetry.csproj|solutionrelative:hyperoptimizedtelemetry\\hyperoptimizedtelemetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2496EAA4-ABA1-498B-A00E-F0ABDF6ACDD3}|HyperOptimizedTelemetry\\HyperOptimizedTelemetry.csproj|c:\\users\\macie\\source\\repos\\hyperoptimizedtelemetry\\hyperoptimizedtelemetry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2496EAA4-ABA1-498B-A00E-F0ABDF6ACDD3}|HyperOptimizedTelemetry\\HyperOptimizedTelemetry.csproj|solutionrelative:hyperoptimizedtelemetry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HyperOptimizedTelemetry.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\HyperOptimizedTelemetry\\HyperOptimizedTelemetry\\HyperOptimizedTelemetry.cs",
+              "RelativeDocumentMoniker": "HyperOptimizedTelemetry\\HyperOptimizedTelemetry.cs",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\HyperOptimizedTelemetry\\HyperOptimizedTelemetry\\HyperOptimizedTelemetry.cs",
+              "RelativeToolTip": "HyperOptimizedTelemetry\\HyperOptimizedTelemetry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:26:47.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\HyperOptimizedTelemetry\\HyperOptimizedTelemetry\\Program.cs",
+              "RelativeDocumentMoniker": "HyperOptimizedTelemetry\\Program.cs",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\HyperOptimizedTelemetry\\HyperOptimizedTelemetry\\Program.cs",
+              "RelativeToolTip": "HyperOptimizedTelemetry\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:26:23.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
