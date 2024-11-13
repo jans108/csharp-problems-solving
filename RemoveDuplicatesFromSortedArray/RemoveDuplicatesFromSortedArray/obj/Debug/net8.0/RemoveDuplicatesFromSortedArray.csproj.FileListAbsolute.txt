@@ -1,0 +1,14 @@
+C:\Users\macie\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\bin\Debug\net8.0\RemoveDuplicatesFromSortedArray.exe
+C:\Users\macie\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\bin\Debug\net8.0\RemoveDuplicatesFromSortedArray.deps.json
+C:\Users\macie\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\bin\Debug\net8.0\RemoveDuplicatesFromSortedArray.runtimeconfig.json
+C:\Users\macie\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\bin\Debug\net8.0\RemoveDuplicatesFromSortedArray.dll
+C:\Users\macie\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\bin\Debug\net8.0\RemoveDuplicatesFromSortedArray.pdb
+C:\Users\macie\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.AssemblyInfo.cs
+C:\Users\macie\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.dll
+C:\Users\macie\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\refint\RemoveDuplicatesFromSortedArray.dll
+C:\Users\macie\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.pdb
+C:\Users\macie\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.genruntimeconfig.cache
+C:\Users\macie\source\repos\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\ref\RemoveDuplicatesFromSortedArray.dll

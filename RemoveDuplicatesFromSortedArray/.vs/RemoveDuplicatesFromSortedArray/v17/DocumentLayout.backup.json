@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\macie\\source\\repos\\RemoveDuplicatesFromSortedArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD05A9AB-094B-409B-83AF-712936840C3D}|RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj|c:\\users\\macie\\source\\repos\\removeduplicatesfromsortedarray\\removeduplicatesfromsortedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD05A9AB-094B-409B-83AF-712936840C3D}|RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj|solutionrelative:removeduplicatesfromsortedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD05A9AB-094B-409B-83AF-712936840C3D}|RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj|c:\\users\\macie\\source\\repos\\removeduplicatesfromsortedarray\\removeduplicatesfromsortedarray\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD05A9AB-094B-409B-83AF-712936840C3D}|RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj|solutionrelative:removeduplicatesfromsortedarray\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray\\Solution.cs",
+              "RelativeDocumentMoniker": "RemoveDuplicatesFromSortedArray\\Solution.cs",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray\\Solution.cs",
+              "RelativeToolTip": "RemoveDuplicatesFromSortedArray\\Solution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:07:11.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveDuplicatesFromSortedArray\\Program.cs",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray\\Program.cs",
+              "RelativeToolTip": "RemoveDuplicatesFromSortedArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:06:10.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
