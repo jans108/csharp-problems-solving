@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\macie\\source\\repos\\CatchingExceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01776A15-0044-4CAE-9123-6C33249B9481}|CatchingExceptions\\CatchingExceptions.csproj|c:\\users\\macie\\source\\repos\\catchingexceptions\\catchingexceptions\\catchingex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01776A15-0044-4CAE-9123-6C33249B9481}|CatchingExceptions\\CatchingExceptions.csproj|solutionrelative:catchingexceptions\\catchingex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01776A15-0044-4CAE-9123-6C33249B9481}|CatchingExceptions\\CatchingExceptions.csproj|c:\\users\\macie\\source\\repos\\catchingexceptions\\catchingexceptions\\triangleperimeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01776A15-0044-4CAE-9123-6C33249B9481}|CatchingExceptions\\CatchingExceptions.csproj|solutionrelative:catchingexceptions\\triangleperimeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01776A15-0044-4CAE-9123-6C33249B9481}|CatchingExceptions\\CatchingExceptions.csproj|c:\\users\\macie\\source\\repos\\catchingexceptions\\catchingexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01776A15-0044-4CAE-9123-6C33249B9481}|CatchingExceptions\\CatchingExceptions.csproj|solutionrelative:catchingexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatchingEx2.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\CatchingExceptions\\CatchingExceptions\\CatchingEx2.cs",
+              "RelativeDocumentMoniker": "CatchingExceptions\\CatchingEx2.cs",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\CatchingExceptions\\CatchingExceptions\\CatchingEx2.cs",
+              "RelativeToolTip": "CatchingExceptions\\CatchingEx2.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:33:17.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrianglePerimeter.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\CatchingExceptions\\CatchingExceptions\\TrianglePerimeter.cs",
+              "RelativeDocumentMoniker": "CatchingExceptions\\TrianglePerimeter.cs",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\CatchingExceptions\\CatchingExceptions\\TrianglePerimeter.cs",
+              "RelativeToolTip": "CatchingExceptions\\TrianglePerimeter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:35:19.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\CatchingExceptions\\CatchingExceptions\\Program.cs",
+              "RelativeDocumentMoniker": "CatchingExceptions\\Program.cs",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\CatchingExceptions\\CatchingExceptions\\Program.cs",
+              "RelativeToolTip": "CatchingExceptions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:35:00.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

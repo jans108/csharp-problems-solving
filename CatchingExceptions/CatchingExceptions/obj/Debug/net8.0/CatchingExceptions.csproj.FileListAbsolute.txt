@@ -1,0 +1,14 @@
+C:\Users\macie\source\repos\CatchingExceptions\CatchingExceptions\bin\Debug\net8.0\CatchingExceptions.exe
+C:\Users\macie\source\repos\CatchingExceptions\CatchingExceptions\bin\Debug\net8.0\CatchingExceptions.deps.json
+C:\Users\macie\source\repos\CatchingExceptions\CatchingExceptions\bin\Debug\net8.0\CatchingExceptions.runtimeconfig.json
+C:\Users\macie\source\repos\CatchingExceptions\CatchingExceptions\bin\Debug\net8.0\CatchingExceptions.dll
+C:\Users\macie\source\repos\CatchingExceptions\CatchingExceptions\bin\Debug\net8.0\CatchingExceptions.pdb
+C:\Users\macie\source\repos\CatchingExceptions\CatchingExceptions\obj\Debug\net8.0\CatchingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\CatchingExceptions\CatchingExceptions\obj\Debug\net8.0\CatchingExceptions.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\CatchingExceptions\CatchingExceptions\obj\Debug\net8.0\CatchingExceptions.AssemblyInfo.cs
+C:\Users\macie\source\repos\CatchingExceptions\CatchingExceptions\obj\Debug\net8.0\CatchingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\CatchingExceptions\CatchingExceptions\obj\Debug\net8.0\CatchingExceptions.dll
+C:\Users\macie\source\repos\CatchingExceptions\CatchingExceptions\obj\Debug\net8.0\refint\CatchingExceptions.dll
+C:\Users\macie\source\repos\CatchingExceptions\CatchingExceptions\obj\Debug\net8.0\CatchingExceptions.pdb
+C:\Users\macie\source\repos\CatchingExceptions\CatchingExceptions\obj\Debug\net8.0\CatchingExceptions.genruntimeconfig.cache
+C:\Users\macie\source\repos\CatchingExceptions\CatchingExceptions\obj\Debug\net8.0\ref\CatchingExceptions.dll
