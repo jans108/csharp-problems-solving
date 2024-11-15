@@ -1,0 +1,14 @@
+C:\Users\macie\source\repos\CloneVolume\CloneVolume\bin\Debug\net8.0\CloneVolume.exe
+C:\Users\macie\source\repos\CloneVolume\CloneVolume\bin\Debug\net8.0\CloneVolume.deps.json
+C:\Users\macie\source\repos\CloneVolume\CloneVolume\bin\Debug\net8.0\CloneVolume.runtimeconfig.json
+C:\Users\macie\source\repos\CloneVolume\CloneVolume\bin\Debug\net8.0\CloneVolume.dll
+C:\Users\macie\source\repos\CloneVolume\CloneVolume\bin\Debug\net8.0\CloneVolume.pdb
+C:\Users\macie\source\repos\CloneVolume\CloneVolume\obj\Debug\net8.0\CloneVolume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\CloneVolume\CloneVolume\obj\Debug\net8.0\CloneVolume.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\CloneVolume\CloneVolume\obj\Debug\net8.0\CloneVolume.AssemblyInfo.cs
+C:\Users\macie\source\repos\CloneVolume\CloneVolume\obj\Debug\net8.0\CloneVolume.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\CloneVolume\CloneVolume\obj\Debug\net8.0\CloneVolume.dll
+C:\Users\macie\source\repos\CloneVolume\CloneVolume\obj\Debug\net8.0\refint\CloneVolume.dll
+C:\Users\macie\source\repos\CloneVolume\CloneVolume\obj\Debug\net8.0\CloneVolume.pdb
+C:\Users\macie\source\repos\CloneVolume\CloneVolume\obj\Debug\net8.0\CloneVolume.genruntimeconfig.cache
+C:\Users\macie\source\repos\CloneVolume\CloneVolume\obj\Debug\net8.0\ref\CloneVolume.dll
