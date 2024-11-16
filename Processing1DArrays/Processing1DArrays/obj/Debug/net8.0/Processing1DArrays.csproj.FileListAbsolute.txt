@@ -1,0 +1,14 @@
+C:\Users\macie\source\repos\Processing1DArrays\Processing1DArrays\bin\Debug\net8.0\Processing1DArrays.exe
+C:\Users\macie\source\repos\Processing1DArrays\Processing1DArrays\bin\Debug\net8.0\Processing1DArrays.deps.json
+C:\Users\macie\source\repos\Processing1DArrays\Processing1DArrays\bin\Debug\net8.0\Processing1DArrays.runtimeconfig.json
+C:\Users\macie\source\repos\Processing1DArrays\Processing1DArrays\bin\Debug\net8.0\Processing1DArrays.dll
+C:\Users\macie\source\repos\Processing1DArrays\Processing1DArrays\bin\Debug\net8.0\Processing1DArrays.pdb
+C:\Users\macie\source\repos\Processing1DArrays\Processing1DArrays\obj\Debug\net8.0\Processing1DArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Processing1DArrays\Processing1DArrays\obj\Debug\net8.0\Processing1DArrays.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Processing1DArrays\Processing1DArrays\obj\Debug\net8.0\Processing1DArrays.AssemblyInfo.cs
+C:\Users\macie\source\repos\Processing1DArrays\Processing1DArrays\obj\Debug\net8.0\Processing1DArrays.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Processing1DArrays\Processing1DArrays\obj\Debug\net8.0\Processing1DArrays.dll
+C:\Users\macie\source\repos\Processing1DArrays\Processing1DArrays\obj\Debug\net8.0\refint\Processing1DArrays.dll
+C:\Users\macie\source\repos\Processing1DArrays\Processing1DArrays\obj\Debug\net8.0\Processing1DArrays.pdb
+C:\Users\macie\source\repos\Processing1DArrays\Processing1DArrays\obj\Debug\net8.0\Processing1DArrays.genruntimeconfig.cache
+C:\Users\macie\source\repos\Processing1DArrays\Processing1DArrays\obj\Debug\net8.0\ref\Processing1DArrays.dll
