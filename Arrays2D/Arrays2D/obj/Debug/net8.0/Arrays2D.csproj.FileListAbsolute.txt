@@ -1,0 +1,14 @@
+C:\Users\macie\source\repos\Arrays2D\Arrays2D\bin\Debug\net8.0\Arrays2D.exe
+C:\Users\macie\source\repos\Arrays2D\Arrays2D\bin\Debug\net8.0\Arrays2D.deps.json
+C:\Users\macie\source\repos\Arrays2D\Arrays2D\bin\Debug\net8.0\Arrays2D.runtimeconfig.json
+C:\Users\macie\source\repos\Arrays2D\Arrays2D\bin\Debug\net8.0\Arrays2D.dll
+C:\Users\macie\source\repos\Arrays2D\Arrays2D\bin\Debug\net8.0\Arrays2D.pdb
+C:\Users\macie\source\repos\Arrays2D\Arrays2D\obj\Debug\net8.0\Arrays2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Arrays2D\Arrays2D\obj\Debug\net8.0\Arrays2D.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Arrays2D\Arrays2D\obj\Debug\net8.0\Arrays2D.AssemblyInfo.cs
+C:\Users\macie\source\repos\Arrays2D\Arrays2D\obj\Debug\net8.0\Arrays2D.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Arrays2D\Arrays2D\obj\Debug\net8.0\Arrays2D.dll
+C:\Users\macie\source\repos\Arrays2D\Arrays2D\obj\Debug\net8.0\refint\Arrays2D.dll
+C:\Users\macie\source\repos\Arrays2D\Arrays2D\obj\Debug\net8.0\Arrays2D.pdb
+C:\Users\macie\source\repos\Arrays2D\Arrays2D\obj\Debug\net8.0\Arrays2D.genruntimeconfig.cache
+C:\Users\macie\source\repos\Arrays2D\Arrays2D\obj\Debug\net8.0\ref\Arrays2D.dll
